@@ -30,7 +30,7 @@ Tools: Git, GitHub, VS Code, IntelliJ IDEA
 
 🤝 Let's Connect
 
-- 💼 LinkedIn: "Add your LinkedIn profile link here" (#)
+- 💼 LinkedIn: https://www.linkedin.com/in/priyanshi-sharma-81a232344?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 🐙 GitHub: "2909Priyanshi" (https://github.com/2909Priyanshi)
 
 ---
