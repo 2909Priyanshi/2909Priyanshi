@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I'm Priyanshi 👋
 
-<!--
-**2909Priyanshi/2909Priyanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSIT Student
+💻 Aspiring Backend Developer
+🌱 Learning, coding, and growing one step at a time.
 
-Here are some ideas to get you started:
+👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Interested in backend and full-stack development.
+- ☕ Currently learning Java and strengthening my Data Structures & Algorithms skills.
+- 🐍 Exploring Python and practising programming fundamentals.
+- 🌐 Learning JavaScript after building a foundation in HTML and CSS.
+- 📚 Believe in consistent learning and solving problems through practice.
+- 🤝 Open to connecting with fellow developers and learning from the tech community.
+
+🛠️ Technologies & Tools
+
+Languages: Java, Python, C (fundamentals)
+
+Web Development: HTML, CSS, JavaScript (learning)
+
+Tools: Git, GitHub, VS Code, IntelliJ IDEA
+
+📈 My Learning Goals
+
+- Strengthen problem-solving and DSA.
+- Improve my Java programming skills.
+- Learn backend development and build full-stack skills.
+- Contribute to open-source projects as I gain experience.
+
+🤝 Let's Connect
+
+- 💼 LinkedIn: "Add your LinkedIn profile link here" (#)
+- 🐙 GitHub: "2909Priyanshi" (https://github.com/2909Priyanshi)
+
+---
+
+⭐ Thanks for visiting my profile! I'm always learning and looking for ways to grow as a developer.
